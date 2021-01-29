@@ -1,6 +1,6 @@
 # extendedportage Gentoo overlay
 
-The portage is a collection of installs I have required for my system.
+The portage is a collection of installs I require for my system.
 
 ### Installation
 
