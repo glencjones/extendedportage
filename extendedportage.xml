@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+   <repo quality="experimental" status="unofficial">
+      <name>extendedportage</name>
+      <description>Common Installs</description>
+      <homepage>https://github.com/glencjones/extendedportage</homepage>
+      <owner type="person">
+         <email>glen.c.jones@gmail.com</email>
+         <name>Glen</name>
+      </owner>
+      <source type="git">git://github.com/glencjones/extendedportage.git</sources>
+      <feed>https://github.com/glencjones/extendedportage/commits/main.atom</feed>
+   </repo>
+</repositories>
