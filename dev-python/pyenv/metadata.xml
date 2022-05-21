@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE
+pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+  <maintainer type="project">
+    <email>glencjones</email>
+    <name>Glen Jones</name>
+  </maintainer>
+  <upstream>
+    <remote-id type="pypi">pyenv</remote-id>
+    <maintainer status="active">
+      <email>glencjones</email>
+      <name>Glen Jones</name>
+    </maintainer>
+  </upstream>
+</pkgmetadata>
